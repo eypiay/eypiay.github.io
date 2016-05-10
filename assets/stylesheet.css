@@ -1,4 +1,9 @@
+html,body {
+  height: 100%;
+}
 body {
+  background: #9147b0;
+  background: -moz-linear-gradient(-45deg, #9b59b6, #9147b0);
   background: -webkit-gradient(linear, left top, right bottom, from(#9b59b6), to(#9147b0)) fixed;
 }
 #eypiay {
