@@ -1,0 +1,40 @@
+body {
+  background: -webkit-gradient(linear, left top, right bottom, from(#9b59b6), to(#9147b0)) fixed;
+}
+#eypiay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -100px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    color: #fff;
+}
+#eypiay > span {
+    font-size: 32px;
+}
+#eypiay > h1 {
+    color: #fff;
+}​
+#eypiay > h1 > small {
+    display: none;
+}
+h1 > small > a {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    text-shadow: none;
+}
+a.social, a.social:hover, a.social:focus {
+    color: #fff;
+    font-size: 24px;
+    text-decoration: none;
+}
+a.social-github:hover {
+    color: #333;
+}
+a.social-twitter:hover {
+    color: #1da1f2;
+}
